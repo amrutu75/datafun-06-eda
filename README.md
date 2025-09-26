@@ -1,5 +1,5 @@
 # datafun-06-eda
-# Specification for Project 6 EDA Notebook
+# CC6.1: Start a Python EDA Project
 
 ## Overview
 
