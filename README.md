@@ -44,7 +44,7 @@ in a clear and engaging manner.
 
 ## Explore Datasets
 
-Choose a dataset for analysis.
+Chose penguins.csv as dataset for analysis.
 You will want a known, clean dataset. 
 Cleaning data can run 60-80% of the project (or more) - you don't need to
 demonstrate cleaning skills for this project.  
@@ -192,15 +192,15 @@ Use pandas and other tools to perform transformations.
 Transformation may include renaming columns, adding new columns,
 or transforming existing data for more in-depth analysis.
 
-For this project, you must:
+For this project, I remamed:
 
 1. Rename at least one column.
 2. Add at least one column.
 
 #### Step 7. Initial Visualizations
 
-Create a variety of chart types using seaborn and matplotlib to showcase different aspects of your data.
-For each chart, include the goal - what you want to learn/explore, the type of chart you choose, display the chart, and tell your data story. Use Markdown cells and Python cells. Create at least 3 subsections - each subsection should have the following parts:
+Created a variety of chart types using seaborn and matplotlib to showcase different aspects of your data.
+For each chart, include the goal - what you want to learn/explore, the type of chart you choose, display the chart, and tell your data story. Use Markdown cells and Python cells. Created at least 3 subsections - each subsection should have the following parts:
 
 1. Goal: The question you are exploring.
 2. Chart Type: Tell us what kind of chart you choose to illustrate this goal.
