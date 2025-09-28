@@ -11,7 +11,9 @@ GitHub, Git, Jupyter, pandas, Seaborn and other popular data analytics tools.
 
 - GitHub Repository:  **datafun-06-eda**
 - Documentation:      README.md
-- Notebook:           **mrutu_eda.ipynb**
+- Notebook:           **mrutu_eda.ipynb** for testing
+- Notebook:           **mrutu_2_eda.ipynb** for penguins data analytics
+- Notebook:           **mrutu_3_eda.ipynb** for healthexp data analytics highliting trends in heealth expenditure and life expectancy trends per countries (USA, German, Great Britain, japan, France and Canada)
 
 ## Start a New Project
 
